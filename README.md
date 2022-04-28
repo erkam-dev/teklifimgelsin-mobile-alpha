@@ -13,7 +13,7 @@ TeklifimGelsin app is built with BloC architecture on Flutter. The business logi
 - Adaptive Image Asset launch icon
 - Generated routes with Autoroute
 
-## [Download Teklifim Gelsin Release APK](https://drive.google.com/file/d/1LAf_m3YTBHKlDaBpdruFkjzY7xXhhV0p/view?usp=sharing)
+## [Download Teklifim Gelsin Release APK](https://drive.google.com/file/d/1Xz0LgPnqkovVAgSHya7EcOFZGIj2Z6d6/view?usp=sharing)
 
 ## Screenshots
 <p float="left">
