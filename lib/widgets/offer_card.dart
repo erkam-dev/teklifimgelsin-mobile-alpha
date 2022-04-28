@@ -65,11 +65,14 @@ class _OfferCardState extends State<OfferCard> {
               padding: const EdgeInsets.all(8.0),
               child: Row(
                 crossAxisAlignment: CrossAxisAlignment.center,
-                mainAxisAlignment: MainAxisAlignment.spaceAround,
+                mainAxisAlignment: MainAxisAlignment.start,
                 children: [
-                  Image.asset(
-                    bankIconPath + bankName + '.png',
-                    width: 50,
+                  Padding(
+                    padding: const EdgeInsets.all(20),
+                    child: Image.asset(
+                      bankIconPath + bankName + '.png',
+                      width: 50,
+                    ),
                   ),
                   Column(
                     mainAxisSize: MainAxisSize.min,
@@ -88,7 +91,6 @@ class _OfferCardState extends State<OfferCard> {
                       ),
                     ],
                   ),
-                  const Icon(Icons.navigate_next)
                 ],
               ),
             ),
